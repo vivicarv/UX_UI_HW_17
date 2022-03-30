@@ -1,0 +1,10 @@
+body {
+    background: white;
+}
+.nav {
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+    vertical-align: top;
+    font: <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Montserrat:wght@300&family=Open+Sans:ital,wght@0,300;1,300&family=Poppins:wght@100&family=Quicksand&display=swap" rel="stylesheet">
+}
